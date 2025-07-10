@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, me chamo Vitória.
+-💻 Estudante de Análise e Desenvolvimento de Sistemas 1/5
 
-<!--
-**vitoriagxz/vitoriagxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-👩‍💻 Apaixonada por tecnologia e aprendizado constante 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Aprendizados atuais:
+- HTML, CSS, JavaScript
+- VS Code, Git e GitHub
+- Lógica, algoritmos e resolução de problemas
+
+ <img src="https://media.tenor.com/CwKPUL6YYq0AAAAi/lisa-rockstar.gif" width="200"/>
+
