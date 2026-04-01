@@ -5,8 +5,8 @@
 
 
 ## 💻 Aprendizados atuais:
-- HTML, CSS, JavaScript
-- VS Code, Git e GitHub
+- HTML, CSS, JavaScript, Java
+- VS Code, Eclipse, Git e GitHub
 - Lógica, algoritmos e resolução de problemas
 
  <img src="https://media.tenor.com/CwKPUL6YYq0AAAAi/lisa-rockstar.gif" width="200"/>
