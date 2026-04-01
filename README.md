@@ -1,5 +1,5 @@
 ## Olá, me chamo Vitória.
--💻 Estudante de Análise e Desenvolvimento de Sistemas 1/5
+-💻 Estudante de Análise e Desenvolvimento de Sistemas 2/5
 
 -👩‍💻 Apaixonada por tecnologia e aprendizado constante 
 
