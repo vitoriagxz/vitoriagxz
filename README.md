@@ -5,7 +5,7 @@
 
 
 ## 💻 Aprendizados atuais:
-- HTML, CSS, JavaScript, Java
+- HTML, CSS, Java
 - VS Code, Eclipse, Git e GitHub
 - Lógica, algoritmos e resolução de problemas
 
